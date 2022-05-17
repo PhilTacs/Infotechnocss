@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Tacluyan, Reyes, Hapitan, Omero</p>
+    <p>Tacluyan, Reyes, Hapitan, Omero Lab Activitys </p>
 </body>
 </html>
